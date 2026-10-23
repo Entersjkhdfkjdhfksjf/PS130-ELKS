@@ -1,0 +1,5 @@
+build/
+test/FD.IMG
+test/BIOS.BIN
+test/host_test
+test/fb.ppm
